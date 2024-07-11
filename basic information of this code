@@ -1,0 +1,2 @@
+This project compares the performance of different machine learning models including linear regression, logistic regression, SVM, decision tree, and k-means clustering on a chosen dataset. 
+The goal is to evaluate which model performs best and understand the reasons behind their performance differences.
